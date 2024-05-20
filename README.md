@@ -8,9 +8,9 @@
 - 💬 Feel free to reach out to me for collaboration or any exciting project ideas!
 
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/nuhmanudheent/)
+- [Leetcode](https://leetcode.com/u/NUHMAN9260/)
+- [Email](nuhmanudheent@gmail.com)
 
 ### My GitHub Stats
 ![Nuhmanudheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=NUHMANUDHEENT&show_icons=true&theme=radical)
